@@ -6,7 +6,8 @@ package-lock.json
 tmp
 
 # Environment variables, never commit this file
-.env
+# removing ignore to make easier
+#.env
 
 # The development sqlite file
 database/development.sqlite
